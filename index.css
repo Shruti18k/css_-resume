@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(https://minio.production.cloudplatform.tech/resource-center/2022/12/1-11-Student-Portfolio-Website-Examples.jpg);
+    background-repeat:no-repeat ;
+    background-size: auto;
+    background-position: 190px 200px;
+}
+.top{
+    border:2px black;
+}
+.middle{
+    border: brown;
+}
+.bottom{
+    border: red;
+}
